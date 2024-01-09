@@ -1,3 +1,5 @@
-# Surface-RNA-
-# Surface-RNA-
+# Surface-RNA
+   Conventionally limited to proteins, lipids, and polysaccharides, cell membranes have recently revealed the presence of protein-coding RNAs and glycan small RNAs on the surface of mouse1 and human cells. Utilizing a self-developed in situ amplification technique, we quantified surface RNAs on mammalian cells while preserving the integrity of the plasma membrane. Through surface fluorescence in situ hybridization and tagged RNA aptamer imaging, we confirmed the presence of these RNAs on the outer membrane surface. These surface RNAs directly associate with the plasma membrane, independently of protein scaffolding, and exhibit spontaneous localization with the cell membrane in vitro. Our investigation underscores non-coding RNAs as primary components across diverse human and mouse hematopoietic cell types. Single-cell sequencing of human umbilical cord blood mononuclear cells revealed prevalent Y RNAs on monocyte surfaces. Notably, Y RNAs interact directly with histones, and their depletion diminished IL6 gene expression and subsequent protein secretion upon histone stimulation. This suggests a potential role for Y RNAs in mediating innate immune activation by presenting histones to Toll-like receptors (TLR) 2/4. These findings unequivocally establish the presence of enveloping RNA species on mammalian cell surfaces, elucidating their critical involvement in triggering innate immune responses.
+# Surface-RNA
+
 # Surface-RNA
